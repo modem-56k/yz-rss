@@ -1,0 +1,7 @@
+网易科技,http://tech.163.com/special/000944OI/headlines.xml
+腾讯科技,http://tech.qq.com/rss/rss.xml
+36氪,http://36kr.com/feed
+TechCrunch,http://feeds.feedburner.com/TechCrunch/
+The Verge,https://www.theverge.com/rss/index.xml
+Ars Technica,http://feeds.arstechnica.com/arstechnica/index
+Wired,https://www.wired.com/feed/rss
